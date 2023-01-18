@@ -1,2 +1,2 @@
 # Prediction_using_Unsupervised_ML
-Unsupervised ML with KNN model 
+# Here from the given ‘Iris’ dataset, we have to predict the optimum number of clusters and represent it visually.
